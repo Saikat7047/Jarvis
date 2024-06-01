@@ -206,7 +206,7 @@ Sequence Dig.
 
     ```
 - ### Train model for face recognition
-    ![face recognition](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/ff8ee175-7a2f-4a64-a1e2-aa31eb1a15f0)
+    ![face recognition](https://github.com/Saikat7047/Jarvis/assets/112897004/c16acb85-ea64-43c5-b0a6-aa4ef92b3eeb)
     ```
     Go to user_authentication folder:
         Create folder: samples & trainer
