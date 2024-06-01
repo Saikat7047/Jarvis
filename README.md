@@ -65,7 +65,7 @@ Chat History
 ## User Authentication
 
 Face Recognition
-![race recog](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/4ac12015-c86b-4046-b453-b187387a0be2)
+![face recognition 2](https://github.com/Saikat7047/Jarvis/assets/112897004/10f0ad88-e26a-45ec-9a48-90e7ec54a5c1)
 
 Granting Access to Application 
 ![verified](https://github.com/Saikat7047/Jarvis/assets/112897004/3a9c7f37-d576-41d8-b33b-e84e08ee9a40)
