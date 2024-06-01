@@ -54,13 +54,13 @@ Currently I've implemented:
 
 ## UI
 Main Hood
-![main hood](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/4b15972e-eafb-4748-ab7c-d1dc75261176)
+![1](https://github.com/Saikat7047/Jarvis/assets/112897004/059fe8f8-8c5d-4b4f-a2fb-4d212263bf44)
 
 Listening & Output Display
-![siri wave](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/afdc13e9-1d0e-45f8-826c-f5b1cedb1121)
+![siri wave'](https://github.com/Saikat7047/Jarvis/assets/112897004/e5487114-fe5a-47e5-afe0-01dbe82aede9)
 
 Chat History
-![chat history](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/b68eaf8e-74f5-4571-a152-4b0e996ad6c6)
+![chat history](https://github.com/Saikat7047/Jarvis/assets/112897004/7f03284d-675a-48ad-8e40-6cbd32fa6c85)
 
 ## User Authentication
 
@@ -68,30 +68,30 @@ Face Recognition
 ![race recog](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/4ac12015-c86b-4046-b453-b187387a0be2)
 
 Granting Access to Application 
-![user verification](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/cc37d2f8-ef63-4207-9daf-53363f92771e)
+![verified](https://github.com/Saikat7047/Jarvis/assets/112897004/3a9c7f37-d576-41d8-b33b-e84e08ee9a40)
 
 ## Architecture
-![Architecture](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/1b20eef5-b1c6-45c5-9e3c-6dc05f77ee72)
+![Architecture](https://github.com/Saikat7047/Jarvis/assets/112897004/4e320dcd-7472-4715-93be-42e4e79a0f03)
 
 ## Tech Stack
-![tech stack](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/9e07c9aa-3ea8-4599-b564-3caf65b8a3b9)
+![tech stack](https://github.com/Saikat7047/Jarvis/assets/112897004/7bcccd60-eaaa-48b1-be2e-e0ad65635e03)
 
 ## Diagrams
 Flowchart
-![Flowchart](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/ee1216eb-d205-45cb-8ae9-739e4c4ef153)
+![Flowchart](https://github.com/Saikat7047/Jarvis/assets/112897004/deeddee9-193a-4ae7-915e-fd18b3069963)
 
 DFD
-![DFD LEVEL 0](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/18ba369a-20de-4fe9-a04a-c32a4441869f)
+![DFD LEVEL 0](https://github.com/Saikat7047/Jarvis/assets/112897004/5c7cadff-94cb-4db1-a390-53c6950c9bcd)
 
-![DFD LEVEL 1](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/711d6675-a71f-467f-a7f9-c508b2809d0b)
+![DFD LEVEL 1](https://github.com/Saikat7047/Jarvis/assets/112897004/26aa9bbd-5c56-454f-ba1b-4636e607e77e)
 
-![DFD LEVEL 2](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/dbf92c11-b6e1-4e6a-b248-7af1653e8e56)
+![DFD LEVEL 2](https://github.com/Saikat7047/Jarvis/assets/112897004/b62d8e06-8873-4cfd-96f2-398b31be52eb)
 
 Use Case
-![use case diagram](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/6e8de236-aa03-46b8-be41-714d9444e1f0)
+![use case diagram](https://github.com/Saikat7047/Jarvis/assets/112897004/e9c6c2f8-cc8f-4bf7-b2f0-c8e0dafbbefb)
 
 Sequence Dig.
-![sequence diagram for task execution](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/ac4865ba-1aea-465c-acff-276d5ed45a73)
+![sequence diagram for task execution](https://github.com/Saikat7047/Jarvis/assets/112897004/b3bbb78e-e8ab-4260-ac50-2b64b325c6a0)
 ## Project Directory Structure 🌲
 
 ```
